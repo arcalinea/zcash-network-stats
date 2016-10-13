@@ -2,7 +2,7 @@
 
 This is a basic Express app for Zcash network data.
 
-To view, from the directory:
+From the directory:
 
 `npm install`
 

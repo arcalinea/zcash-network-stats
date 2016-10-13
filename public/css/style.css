@@ -1,0 +1,30 @@
+.header {
+  background-color: #3890ca;
+}
+
+.logo {
+  width: 300px;
+}
+
+.header .logo img {
+  height: 90px;
+  width: auto;
+  float: left;
+}
+
+.title {
+  color: white;
+  float: right;
+  margin-top: 19px;
+  font-size: 2.5em;
+}
+
+.nodemap {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.nodemap img {
+  height: 350px;
+  padding-bottom: 20px;
+}
